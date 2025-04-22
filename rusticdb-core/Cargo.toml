@@ -6,3 +6,4 @@ edition = "2024"
 [dependencies]
 tempfile = "3.19.1"
 assert_matches = "1.5.0"
+crc32fast = "1.4.2"
