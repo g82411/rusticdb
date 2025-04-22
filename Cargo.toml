@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "rusticdb-core",
+    "rusticdb-cli"
+]
