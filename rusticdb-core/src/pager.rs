@@ -44,8 +44,6 @@ impl Pager {
 mod tests {
     use super::*;
     use tempfile::NamedTempFile;
-    use assert_matches::assert_matches;
-
     #[test]
     fn test_write_page_success() {
         let temp = NamedTempFile::new().unwrap();
