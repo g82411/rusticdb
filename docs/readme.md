@@ -27,3 +27,4 @@
 
 - 用 `rusticdb-cli` 接收 REPL 輸入
 - 顯示 query 結果、錯誤訊息
+    assdasd
